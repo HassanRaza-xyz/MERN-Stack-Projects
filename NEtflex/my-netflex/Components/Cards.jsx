@@ -12,7 +12,7 @@ const Cards = () => {
             </p>
             <p className="text-[#FFFFFFB3] font-sans text-[16px] font-semibold ">
               <br /> Watch on Smart TVs, Playstation, Xbox, Chromecast, Apple
-              TV, Blu-ray players, and more.
+              TV, Blu-ray players, and many more.
             </p>
             <img
               className="absolute w-15 h-15 rounded-full  bottom-6 right-4 "
